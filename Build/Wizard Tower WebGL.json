@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "Wizard Tower WebGL.data.unityweb",
+"asmCodeUrl": "Wizard Tower WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Wizard Tower WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Wizard Tower WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Wizard Tower WebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
